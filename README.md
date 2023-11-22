@@ -1,6 +1,6 @@
 <h1>Teste para candidatos à vaga de desenvolvedor Fullstack</h1>
 <h2>Instruções</h2>
-<hr></hr>
+
 <p>Você deverá criar um repositório público para o projeto no Github. Use o README principal do seu repositório para nos contar como você desenvolveu o seu teste e nele você deverá contar as suas decisões tomadas, o porque de cada tecnologia escolhida por você e como organizou e separou o seu código. As instruções de como rodar seu projeto também devem estar presentes no README.</p>
 <p>Não existe uma resposta correta para o teste. Você pode alcançar o objetivo de várias maneiras possíveis e será avaliado a maneira, métodos e tecnologias que você escolheu para finalizar o desafio.</p>
 <p>Não há um tempo definido para a conclusão do teste. Ao concluir o teste você deve enviar o link do repositório nos seguintes emails: mspereira@acsp.com.br, aschartz@acsp.comb.r, para que possamos dar uma conferida.</p>
