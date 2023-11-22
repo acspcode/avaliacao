@@ -3,7 +3,7 @@
 
 <p>Você deverá criar um repositório público para o projeto no Github. Use o README principal do seu repositório para nos contar como você desenvolveu o seu teste e nele você deverá contar as suas decisões tomadas, o porque de cada tecnologia escolhida por você e como organizou e separou o seu código. As instruções de como rodar seu projeto também devem estar presentes no README.</p>
 <p>Não existe uma resposta correta para o teste. Você pode alcançar o objetivo de várias maneiras possíveis e será avaliado a maneira, métodos e tecnologias que você escolheu para finalizar o desafio.</p>
-<p>Não há um tempo definido para a conclusão do teste. Ao concluir o teste você deve enviar o link do repositório nos seguintes emails: mspereira@acsp.com.br, aschartz@acsp.comb.r, para que possamos dar uma conferida.</p>
+<p>Não há um tempo definido para a conclusão do teste. Ao concluir o teste você deve enviar o link do repositório nos seguintes emails: mspereira@acsp.com.br e aschwartz@acsp.com.br, para que possamos dar uma conferida.</p>
 
 <h2>Desafio</h2>
 <p>Você será responsável por integrar a próxima landing page de um de nossos clientes e criar uma pequena API para o armazenamento dos leads convertidos nessa landing page. Para isso você deve seguir os seguintes pontos:</p>
