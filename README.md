@@ -27,7 +27,7 @@
     <li>Banco de dados Mysql</li>    
     <li>Utilize a tecnologia ou framework da melhor forma possível (metodologia/estrutura).</li>
     <li>Utilização de dependency managers (composer, npm, yarn) para instalação de bibliotecas utilizadas no projeto.</li>
-    <li>O formulário deve possuir como campos obrigatórios Nome(name), E-mail(email), Telefone(phone) e caso queira adicionar novos campos, esses campos podem ser considerados como opcional.</li>
+    <li>O formulário deve possuir como campos obrigatórios Nome(name), E-mail(email), Telefone(phone).</li>
     <li>Desenvolver método para submissão do formulário, este deverá ser uma requisção do tipo POST, além dos dados visíveis no formulário é necessário que seja enviado um parâmetro code que não será visivel para o usuário da página mas que será enviado na requisição para identificação do lead.</li>
 </ul>
 
