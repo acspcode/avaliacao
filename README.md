@@ -29,12 +29,14 @@
     <li>Utilização de dependency managers (composer, npm, yarn) para instalação de bibliotecas utilizadas no projeto.</li>
     <li>O formulário deve possuir como campos obrigatórios Nome(name), E-mail(email), Telefone(phone) e caso queira adicionar novos campos, esses campos podem ser considerados como opcional.</li>
     <li>Desenvolver método para submissão do formulário, este deverá ser uma requisção do tipo POST, além dos dados visíveis no formulário é necessário que seja enviado um parâmetro code que não será visivel para o usuário da página mas que será enviado na requisição para identificação do lead.</li>
-
 </ul>
 
 <h2>Informações adicionais</h2>
-<p>Usuario e senha linux: usuario: fcamara, senha: fcamara</p>
+<p>Tipo de fonte: Open Sans sem serifa</p>
+<p>Cor de fundo do formulario e dos textos em azul. código: #2453AE</p>
+<p>Cor dos textos. Código: #646464 </p>
+<p>Usuario e senha linux. usuario: fcamara, senha: fcamara</p>
 <p>Dados banco de dados. host:localhost, user:root, senha: 12345678</p>
-<p>Aplicativo para acesso banco de dados: localhost/phpmyadmin</p>
+<p>Aplicativo para acesso banco de dados. localhost/phpmyadmin</p>
 
 
