@@ -19,7 +19,7 @@
 </ul>
 
 <h2>O que nós esperamos do seu teste</h2>
-<hr></hr>
+
 <ul>
     <li>Utilizar PHP 7.4 disponivel na maquina fornecida</li>
     <li>Banco de dados Mysql</li>    
