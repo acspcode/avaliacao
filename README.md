@@ -32,7 +32,7 @@
 </ul>
 
 <h2>Informações adicionais</h2>
-<p>Tipo de fonte: Open Sans sem serifa</p>
+<p>Tipo de fonte: 'Open Sans', sans-serif</p>
 <p>Cor de fundo do formulario e dos textos em azul. código: #2453AE</p>
 <p>Cor dos textos. Código: #646464 </p>
 <p>Usuario e senha linux. usuario: fcamara, senha: fcamara</p>
