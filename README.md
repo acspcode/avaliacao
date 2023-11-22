@@ -8,6 +8,7 @@
 <h2>Desafio</h2>
 <p>Você será responsável por integrar a próxima landing page de um de nossos clientes e criar uma pequena API para o armazenamento dos leads convertidos nessa landing page. Para isso você deve seguir os seguintes pontos:</p>
 <p>O modelo da Landing Page e os arquivos necessários de imagem estão na pasta Landing-page</p>
+<p>Verificar também o video comportamento-desktop.mp4 que está dentro da pasta, para que ele seja replicado no desenvolvimento da pagina</p>
 <ul>
     <li>1. Criar um banco de dados para que armazene leads, guardando informações como o horário do lead gerado, o produto que está sendo ofertado, possíveis origens e o que mais que você ache que pode ser relevante para guardar sobre um lead.</li>
     <li>2. Criar uma API que permita realizar pelo menos 4 ações básicas, GET, POST, PUT, DELETE, manipulando os dados do banco criado previamente, realizando as seguintes ações:<br>
