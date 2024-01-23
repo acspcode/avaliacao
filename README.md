@@ -35,7 +35,7 @@
 <p>Tipo de fonte: 'Open Sans', sans-serif</p>
 <p>Cor de fundo do formulario e dos textos em azul. código: #2453AE</p>
 <p>Cor dos textos. Código: #646464 </p>
-<p>Usuario e senha linux. usuario: fcamara, senha: fcamara</p>
+<p>Usuario e senha linux. usuario: candidato, senha: avaliacao</p>
 <p>Dados banco de dados. host:localhost, user:root, senha: Avaliacao@2024</p>
 <p>Aplicativo para acesso banco de dados. localhost/phpmyadmin</p>
 
